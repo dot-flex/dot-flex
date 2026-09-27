@@ -83,5 +83,5 @@
 ---
 
 <div align="center">
-  <sub>⭐ <em>Building, learning, and improving — one project at a time.</em></sub>
+  <sub>⭐ <em>Building, learning, and improving</em></sub>
 </div>

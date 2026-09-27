@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi, I'm Dot Flex 👋</h1>
-  <p>Software Technology student · Learning to code, one project at a time.</p>
+  <p>Software Technology student</p>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />

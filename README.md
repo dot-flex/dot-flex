@@ -23,10 +23,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **About me**: I'm studying Software Technology and developing my programming skills through practice.
-- 🐍 **Python**: Learning to build useful scripts, automate small tasks, and work with APIs.
+- 🐍 **Python**: Learning to build useful scripts, automate tasks, and work with APIs.
 - 🎮 **Lua**: Exploring game scripting and learning how to organize game logic.
-- 🌐 **Web Development**: Practicing HTML, CSS, and JavaScript by building simple websites.
-- 💡 **My goal**: Write clear code, understand what I build, and improve with each project.
+- 🌐 **Web Development**: Practicing HTML, CSS, and JavaScript by building websites.
 - ⚡ **Fun fact**: Dark mode makes debugging a little more comfortable.
 
 ---
